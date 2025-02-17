@@ -1,11 +1,11 @@
 <h3 align="center">Hi 👋! My name is José and I'm a frontend developer from Argentina.</h3>
-###
+
 <div align="right">
 <p align="left">- 📚 I'm currently learning Typescript and Node Js with Express. <br> - ⚡ In my free time I like to running. <br> - Something interesting: I trekked about 465 km across the Andes Mountain.
 </p>
 
 </div>
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
