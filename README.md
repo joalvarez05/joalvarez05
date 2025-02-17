@@ -1,5 +1,10 @@
 <h3 align="center">Hi 👋! My name is José and I'm a frontend developer from Argentina.</h3>
-
+###
+<div align="right">
+- 📚 I'm currently learning Typescript and Node Js with Express.
+- ⚡ In my free time I like to running. 
+- Something interesting: I trekked about 465 km across the Andes Mountain.
+</div>
 ###
 
 <div align="center">
@@ -44,11 +49,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ###
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+### 
