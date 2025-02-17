@@ -35,7 +35,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/3c/ba/1f/3cba1f80f4461da36a7cd6c38f0bb652.gif"  />
 
 ###
-
+<br>
 <div align="center">
   <a href="josealvarezdominguez00@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
