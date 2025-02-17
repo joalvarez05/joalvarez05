@@ -35,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/3c/ba/1f/3cba1f80f4461da36a7cd6c38f0bb652.gif"  />
 
